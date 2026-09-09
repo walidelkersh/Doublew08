@@ -69,6 +69,44 @@ $$V - E + F = 2$$
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
 </p>
 
+<!-- Stack used by the Resume Advice Analytics data-engineering project -->
+<h3 align="center">Resume Advice Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB"/>&nbsp;
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>&nbsp;
+  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white" alt="Dagster"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" alt="Apache Parquet"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>&nbsp;
+  <img src="https://img.shields.io/badge/SetFit-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="SetFit"/>&nbsp;
+  <img src="https://img.shields.io/badge/sentence--transformers-0B5FFF?style=flat-square&logo=huggingface&logoColor=white" alt="sentence-transformers"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arctic_Shift_API-0D1117?style=flat-square&logo=reddit&logoColor=white" alt="Arctic Shift API"/>&nbsp;
+  <img src="https://img.shields.io/badge/httpx-2C5BB4?style=flat-square&logo=python&logoColor=white" alt="httpx"/>&nbsp;
+  <img src="https://img.shields.io/badge/EasyOCR-00A98F?style=flat-square&logo=pytorch&logoColor=white" alt="EasyOCR"/>&nbsp;
+  <img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" alt="PaddleOCR"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white" alt="Pillow"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>&nbsp;
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff"/>&nbsp;
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white" alt="uv"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
 ---
 
 ## 🏆 Trophies
@@ -82,21 +120,10 @@ $$V - E + F = 2$$
 ## 📊 GitHub Stats
 <div align="center">
 
-  <img height="170" alt="GitHub Stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=walidelkersh&show_icons=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&hide_border=true" />
+  <img height="170" alt="Public GitHub Stats"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=walidelkersh&theme=nord_dark" />
   <img height="170" alt="GitHub Streak"
        src="https://github-readme-streak-stats.herokuapp.com/?user=walidelkersh&background=0d1117&border=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
-
-  <br/><br/>
-
-  <img height="160" alt="Top Languages"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&langs_count=8&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&hide_border=true&hide=shaderlab,hlsl" />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=6366f1&area=true&area_color=36BCF7&hide_border=true" />
 </div>
 
 ---
