@@ -59,6 +59,15 @@ $$V - E + F = 2$$
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
 </p>
 
+<h3 align="center">🧮 Mathematics & Formal Methods</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white" alt="Wolfram Mathematica"/>&nbsp;
+  <img src="https://img.shields.io/badge/SageMath-3F7F93?style=flat-square&logo=sagemath&logoColor=white" alt="SageMath"/>&nbsp;
+  <img src="https://img.shields.io/badge/Lean_4-563D7C?style=flat-square&logo=leanpub&logoColor=white" alt="Lean 4"/>&nbsp;
+  <img src="https://img.shields.io/badge/Mathlib-6F42C1?style=flat-square&logo=leanpub&logoColor=white" alt="Mathlib"/>&nbsp;
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
+
 <h3 align="center">📊 Data Science / Engineering</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12"/>&nbsp;
@@ -97,9 +106,9 @@ $$V - E + F = 2$$
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdjMC0uODI3LS42NzMtMS41LTEuNS0xLjVoLTJWMWExIDEgMCAwIDEgMS0xaDZhMSAxIDAgMCAxIDEgMXptLTYgNUg5YTEgMSAwIDAgMC0xIDF2NC41aDJjLjgyNyAwIDEuNS42NzMgMS41IDEuNXYxMUgxNlY3YTEgMSAwIDAgMC0xLTF6bS01IDZINGExIDEgMCAwIDAtMSAxdjEwYTEgMSAwIDAgMCAxIDFoN1YxM2ExIDEgMCAwIDAtMS0xeiIvPjwvc3ZnPg%3D%3D&logoColor=black" alt="Power BI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTExLjY1NC4xNzRWMi4zNzdIOS42ODJ2LjU4aDEuOTcyVjUuMTZoLjY5NlYyLjk1N2gxLjk3di0uNThoLTEuOTdWLjE3NGgtLjM0OHptNi4wMyAyLjI2MmwtLjAwMiAxLjYyM3YxLjYyM2gtMi45NTd2LjkyN2gyLjk1N3YzLjE4OEgxOC43MjVsLjAxMS0xLjU4Mi4wMi0xLjU3NiAxLjQ2NS0uMDIgMS40Ni0uMDF2LS45MjdIMTguNzI4VjIuNDM2aC0uNTIyem0tMTIuNDA3LjA2VjUuNjg2SDIuMjkxdi45MjVINS4yNzdWOS44MDFoLjk4NVY2LjYxaDMuMDEzdi0uOTI1SDYuMjYyVjIuNDk2SDUuNzd6bTYuMDg2IDUuMjd2My41OTNIOC4wNnYxLjE4OGgzLjMwNHYzLjU5NmgxLjI4di0zLjU5NkgxNS45NTN2LTEuMTg4SDEyLjY0M1Y3Ljc2NmgtLjYzN3ptOS43MjEgMS41NXYyLjIyMWgtMi4wMTJ2LjgxMWgyLjAxMnYyLjI2MWguODg3di0yLjI2MUgyNHYtLjgxMWgtMi4wMjlWOS4zMTdoLS40MjJ6bS0xOS4xMTEuMTMxVjExLjYyMUgwdi42MjFIMS45NzN2Mi4xOTRIMi42NHYtMi4xOTRoMnYtLjYySDIuNjA5VjkuNDQ2aC0uMzE4em0xNS43MDkgNC41MTZ2My4yNTRoLTMuMDE2di45MjdoMy4wMTZ2My4yMTdoMS4wNzJ2LTMuMjE2SDIxLjc0di0uOTI4SDE4Ljc1NHYtMy4yNTRoLS41MzN6bS0xMi40NjMuMDA4djMuMjQ2SDIuMjYydi45MjhoMi45NTd2My4xODlINi4zMnYtMy4xODloMi45NTV2LS45MjhINi4zMlYxMy45N2gtLjU1em02LjMxNiA0LjU3OGwuMDAyIDEuMTAzdjEuMUg5LjU2NnYuODEyaDEuOTcxdjIuMjYyaC45MjhsLjAxMi0xLjExOS4wMTctMS4xNDNIMTQuNDYzdi0uODEyaC0yVjE4LjU0OWgtLjQ2NXoiLz48L3N2Zz4%3D&logoColor=white" alt="Tableau"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIzIDEuNXEuNDEgMCAuNy4zLjMuMjkuMy43djE5cTAgLjQxLS4zLjctLjI5LjMtLjcuM0g3cS0uNDEgMC0uNy0uMy0uMy0uMjktLjMtLjdWMThIMXEtLjQxIDAtLjctLjMtLjMtLjI5LS4zLS43VjdxMC0uNDEuMy0uN1EuNTggNiAxIDZoNVYyLjVxMC0uNDEuMy0uNy4yOS0uMy43LS4zek02IDEzLjI4bDEuNDIgMi42NmgyLjE0bC0yLjM4LTMuODcgMi4zNC0zLjhINy40NmwtMS4zIDIuNC0uMDUuMDgtLjA0LjA5LS42NC0xLjI4LS42Ni0xLjI5SDIuNTlsMi4yNyAzLjgyLTIuNDggMy44NWgyLjE2ek0xNC4yNSAyMXYtM0g3LjV2M3ptMC00LjV2LTMuNzVIMTJ2My43NXptMC01LjI1VjcuNUgxMnYzLjc1em0wLTUuMjVWM0g3LjV2M3ptOC4yNSAxNXYtM2gtNi43NXYzem0wLTQuNXYtMy43NWgtNi43NXYzLjc1em0wLTUuMjVWNy41aC02Ljc1djMuNzV6bTAtNS4yNVYzaC02Ljc1djNaIi8%2BPC9zdmc%2B&logoColor=white" alt="Excel"/>
 </p>
 
 ---
