@@ -59,12 +59,11 @@ $$V - E + F = 2$$
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
 </p>
 
-<h3 align="center">🧮 Mathematics & Formal Methods</h3>
+<h3 align="center">🧮 Mathematics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white" alt="Wolfram Mathematica"/>&nbsp;
   <img src="https://img.shields.io/badge/SageMath-3F7F93?style=flat-square&logo=sagemath&logoColor=white" alt="SageMath"/>&nbsp;
   <img src="https://img.shields.io/badge/Lean_4-563D7C?style=flat-square&logo=leanpub&logoColor=white" alt="Lean 4"/>&nbsp;
-  <img src="https://img.shields.io/badge/Mathlib-6F42C1?style=flat-square&logo=leanpub&logoColor=white" alt="Mathlib"/>&nbsp;
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
 
